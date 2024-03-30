@@ -7,7 +7,10 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
+  background-color: #262626;
 }
+
+
 h2,
 h3,
 h4 {
@@ -76,7 +79,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #121212;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -84,13 +87,13 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #fff;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -134,7 +137,7 @@ hr {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #fff;
+  background-color: #262626;
   border-color: #608dfd;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
@@ -209,7 +212,6 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -244,9 +246,16 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
+
+#header {
+  background-color: #262626;
+
+
+}
+
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #262626;
 }
 #features i.fa {
   font-size: 38px;
@@ -263,6 +272,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  background-color: #262626;
 }
 #about h3 {
   font-size: 22px;
@@ -299,7 +309,7 @@ header .intro-text {
 #about img {
   width: 520px;
   margin-top: 10px;
-  background: #fff;
+  background: #262626;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
@@ -312,6 +322,7 @@ header .intro-text {
   padding: 100px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
+  background-color: #262626;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
@@ -505,7 +516,7 @@ header .intro-text {
 }
 #contact .btn-custom:hover {
   color: #1f386e;
-  background: #fff;
+ 
 }
 label {
   font-size: 12px;
@@ -520,7 +531,6 @@ label {
   font-size: 16px;
   line-height: 1.42857143;
   color: #444;
-  background-color: #fff;
   background-image: none;
   border: 1px solid #ddd;
   border-radius: 0;
@@ -581,7 +591,7 @@ label {
 }
 #contact .social i.fa:hover {
   color: #608dfd;
-  background: #fff;
+  
 }
 /* Footer Section*/
 #footer {
