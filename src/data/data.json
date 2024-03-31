@@ -130,17 +130,17 @@
   ],
   "Team": [
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/01.jpeg",
       "name": "Kovid Srivart",
       "job": "ECE 2nd Year"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
       "name": "Abhishek Nimalan",
       "job": "ECE 2nd Year"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/03.jpeg",
       "name": "John David Genus",
       "job": "ECE 2nd Year"
     }
