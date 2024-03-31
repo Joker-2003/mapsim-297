@@ -174,5 +174,124 @@
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
-  ]
+  ],
+  "Docs": [
+    {
+        "feature_name": "Intersection Street Search",
+        "description": "Enable users to search for intersections between two streets with prefix autocompletion for quick and accurate inputs."
+    },
+    {
+        "feature_name": "Levenshtein Autocompletion",
+        "description": "Implement Levenshtein distance-based autocompletion to suggest relevant options for user input, enhancing the search experience."
+    },
+    {
+        "feature_name": "Formatted Directions with Pango/Markup",
+        "description": "Format directions using Pango/Markup to improve readability and provide clear guidance for navigation."
+    },
+    {
+        "feature_name": "Export Directions as HTML",
+        "description": "Allow users to export directions as HTML for easy sharing and offline access, enhancing the usability of the application."
+    },
+    {
+        "feature_name": "Arrow Keys for Panning",
+        "description": "Provide arrow keys functionality for panning the map, offering users an intuitive way to navigate the map viewport."
+    },
+    {
+        "feature_name": "Zoom In/Out/Fit Buttons",
+        "description": "Include zoom in, zoom out, and fit buttons to facilitate easy adjustment of the map view, enhancing user control and navigation."
+    },
+    {
+        "feature_name": "Debug Bar",
+        "description": "Integrate a debug bar to display relevant information and assist developers in troubleshooting and optimizing the application."
+    },
+    {
+        "feature_name": "API-Based Weather Widget",
+        "description": "Incorporate a weather widget powered by an API to provide users with real-time weather information, enhancing the application's utility."
+    },
+    {
+        "feature_name": "Country API Integration",
+        "description": "Integrate a country API to retrieve and display country-specific data, enriching the user experience with relevant geographical information."
+    },
+    {
+        "feature_name": "Cohere API (Insights)",
+        "description": "Leverage Cohere API to generate insights and enhance user experience by providing realtime data of Points of Interests within the application."
+    },
+    {
+        "feature_name": "Map Overlays (Intersection Highlights)",
+        "description": "Implement map overlays to highlight intersections, providing users with visual cues and improving navigation and orientation."
+    },
+    {
+        "feature_name": "PNG POIs",
+        "description": "Display points of interest (POIs) on the map using PNG images, enhancing the map's visual appeal and usability."
+    },
+    {
+        "feature_name": "Zoom-Based Loading",
+        "description": "Implement zoom-based loading to optimize performance by loading map data dynamically based on the user's zoom level."
+    },
+    {
+        "feature_name": "Tiling/Viewport Rendering/Culling",
+        "description": "Utilize tiling, viewport rendering, and culling techniques to efficiently render map data, ensuring smooth performance and responsiveness."
+    },
+    {
+        "feature_name": "Map Drop Down",
+        "description": "Include a map drop-down menu to allow users to select different maps of cities without need of re compilation, enhancing customization and usability."
+    },
+    {
+        "feature_name": "Expander UIs",
+        "description": "Incorporate expander UIs to organize and present complex information or settings in a user-friendly and accessible manner."
+    },
+    {
+        "feature_name": "Collapsible Side Bar",
+        "description": "Implement a collapsible side bar to maximize screen real estate and provide users with control over the visibility of additional information or features."
+    },
+    {
+        "feature_name": "Settings Menu",
+        "description": "Include a settings menu to allow users to customize various aspects of the application according to their preferences, enhancing usability and personalization."
+    },
+    {
+        "feature_name": "External Documentation",
+        "description": "Provide access to external documentation within the application to offer users additional resources and support, facilitating learning and troubleshooting."
+    },
+    {
+        "feature_name": "Help Dialog",
+        "description": "Incorporate a help dialog to provide users with guidance and instructions on using different features and functionalities of the application."
+    },
+    {
+        "feature_name": "Tooltips",
+        "description": "Implement tooltips to offer contextual information and guidance, enhancing user understanding and interaction with various elements of the application."
+    },
+    {
+        "feature_name": "Preloading",
+        "description": "Optimize performance by preloading essential resources or data to reduce loading times and provide a seamless user experience."
+    },
+    {
+        "feature_name": "A* Pathfinding with Optimized Heuristic",
+        "description": "Integrate A* pathfinding algorithm with optimized heuristic to efficiently calculate routes and provide accurate navigation directions."
+    },
+    {
+        "feature_name": "CSS Custom GTK/Glade Theming",
+        "description": "Allow users to customize the application's appearance by providing CSS-based theming options, enhancing visual appeal and personalization."
+    },
+    {
+        "feature_name": "Alternative Colour Schemes",
+        "description": "Offer alternative color schemes (like Dark Mode and Invert Mode) to cater to users with different preferences or visual impairments, improving accessibility and user satisfaction."
+    },
+    {
+        "feature_name": "Toggable Map Elements / 'Layers' (Show POI, Intersections)",
+        "description": "Enable users to toggle map elements or layers, such as points of interest (POI) and intersections, to customize the displayed information based on their preferences and needs."
+        },
+        {
+        "feature_name": "Map Overlay Animations",
+        "description": "Incorporate animated map overlays to provide dynamic visual feedback and enhance the user experience with engaging and interactive map interactions."
+        },
+        {
+        "feature_name": "Selectable Path and Direction Highlight",
+        "description": "Allow users to select and highlight paths or directions on the map, facilitating easier navigation and route planning by focusing on specific routes or segments."
+        },
+        {
+        "feature_name": "Map Router for Itinerary Planning",
+        "description": "Introduce a map router feature to assist users in planning itineraries by calculating optimal routes and providing detailed directions between multiple destinations."
+        }
+        ]
+
 }

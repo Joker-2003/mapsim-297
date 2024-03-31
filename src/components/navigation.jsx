@@ -1,5 +1,7 @@
 import React from "react";
 
+export let DOCS_IS_OPEN = false;
+
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -57,11 +59,11 @@ export const Navigation = (props) => {
                 Team
               </a>
             </li>
-            {/* <li>
-              <a href="#contact" className="page-scroll">
-                Contact
+             <li>
+              <a href="#docs" className="page-scroll" >
+                Docs
               </a>
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>
