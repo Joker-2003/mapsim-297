@@ -178,59 +178,59 @@
   "Docs": [
     {
         "feature_name": "Intersection Street Search",
-        "description": "Enable users to search for intersections between two streets with prefix autocompletion for quick and accurate inputs."
+        "description": "Enable users to search for intersections between two streets, which is helpful in using the map for pathfinding without browsing the map directly. The user enters the street names into the map, and the intersection name appears underneath. The search function has prefix autocompletion, which improves usability by allowing users to input information into the search bar efficiently, as well as preventing spelling or formatting mistakes in the inputs."
     },
     {
         "feature_name": "Levenshtein Autocompletion",
-        "description": "Implement Levenshtein distance-based autocompletion to suggest relevant options for user input, enhancing the search experience."
+        "description": "Implement Levenshtein distance-based autocompletion to suggest relevant options for user input. This makes the process of entering information into the map shorter, and by extension, improves the search experience for users."
     },
     {
         "feature_name": "Formatted Directions with Pango/Markup",
-        "description": "Format directions using Pango/Markup to improve readability and provide clear guidance for navigation."
+        "description": "Format directions using Pango/Markup to improve the appearance and readability of the text and graphics of the map, and by extension, provide clear guidance for navigation."
     },
     {
         "feature_name": "Export Directions as HTML",
-        "description": "Allow users to export directions as HTML for easy sharing and offline access, enhancing the usability of the application."
+        "description": "Allow users to export directions as HTML files. This enhances the usability of the application by enabling it to be useful without an internet connection, as well as enabling it to be shared with others."
     },
     {
         "feature_name": "Arrow Keys for Panning",
-        "description": "Provide arrow keys functionality for panning the map, offering users an intuitive way to navigate the map viewport."
+        "description": "Provide arrow keys functionality for manually moving around the map, offering users an intuitive way to navigate the map viewport."
     },
     {
         "feature_name": "Zoom In/Out/Fit Buttons",
-        "description": "Include zoom in, zoom out, and fit buttons to facilitate easy adjustment of the map view, enhancing user control and navigation."
+        "description": "Include zoom in, zoom out, and fit buttons to facilitate easy adjustment of the map view. This gives the user the option to see the map as a whole, as well as viewing specific points on the map in great detail, which gives the user a great deal of control over what they see."
     },
     {
         "feature_name": "Debug Bar",
-        "description": "Integrate a debug bar to display relevant information and assist developers in troubleshooting and optimizing the application."
+        "description": "Integrate a debug bar to display relevant information and assist developers in troubleshooting and optimizing the application, as well as providing curious users with extra information."
     },
     {
         "feature_name": "API-Based Weather Widget",
-        "description": "Incorporate a weather widget powered by an API to provide users with real-time weather information, enhancing the application's utility."
+        "description": "Incorporate a weather widget powered by an API to provide users with real-time weather information, providing the user with highly useful information for planning a trip, which in tandem with the pathfinding features, provide a greatly cohesive user experience."
     },
     {
         "feature_name": "Country API Integration",
-        "description": "Integrate a country API to retrieve and display country-specific data, enriching the user experience with relevant geographical information."
+        "description": "Integrate a country API to retrieve and display country-specific data, which allows users access to information on their immediate surroundings, which is highly useful in planning a trip."
     },
     {
         "feature_name": "Cohere API (Insights)",
-        "description": "Leverage Cohere API to generate insights and enhance user experience by providing realtime data of Points of Interests within the application."
+        "description": "Leverage Cohere API to generate insights and enhance user experience by providing realtime data of Points of Interest within the application. This improves the user experience by providing extra information on the point of interest in question that users can use to enrich the trip planning process."
     },
     {
         "feature_name": "Map Overlays (Intersection Highlights)",
-        "description": "Implement map overlays to highlight intersections, providing users with visual cues and improving navigation and orientation."
+        "description": "Implement map overlays to highlight intersections, allowing users to interact with the map easier, as well as highlight intersections for the pathfinding function so that it can plan routes between intersections."
     },
     {
         "feature_name": "PNG POIs",
-        "description": "Display points of interest (POIs) on the map using PNG images, enhancing the map's visual appeal and usability."
+        "description": "Display points of interest (POIs) on the map using PNG images, allowing users to gain context on what each POI is, so that they can get an idea on if or if not they are interested in the POI."
     },
     {
         "feature_name": "Zoom-Based Loading",
-        "description": "Implement zoom-based loading to optimize performance by loading map data dynamically based on the user's zoom level."
+        "description": "Implement zoom-based loading to optimize performance by only loading data that is necessary at the zoom level in question. Loading too much data for the zoom level will hurt performance, while loading too little data could result in the display missing information."
     },
     {
         "feature_name": "Tiling/Viewport Rendering/Culling",
-        "description": "Utilize tiling, viewport rendering, and culling techniques to efficiently render map data, ensuring smooth performance and responsiveness."
+        "description": "Utilize tiling, viewport rendering, and culling techniques to efficiently render map data, ensuring efficient, fast, and smooth performance and the quick responsiveness of the map to user input."
     },
     {
         "feature_name": "Map Drop Down",
@@ -238,15 +238,15 @@
     },
     {
         "feature_name": "Expander UIs",
-        "description": "Incorporate expander UIs to organize and present complex information or settings in a user-friendly and accessible manner."
+        "description": "Incorporate expander UIs to organize and present large amounts of complex information or settings in a user-friendly and accessible manner."
     },
     {
         "feature_name": "Collapsible Side Bar",
-        "description": "Implement a collapsible side bar to maximize screen real estate and provide users with control over the visibility of additional information or features."
+        "description": "Implement a collapsible side bar to ensure there is space to maximize the display's clarity and provide users with control over the visibility of additional information or features."
     },
     {
         "feature_name": "Settings Menu",
-        "description": "Include a settings menu to allow users to customize various aspects of the application according to their preferences, enhancing usability and personalization."
+        "description": "Include a settings menu to allow users to customize various aspects of the application according to their preferences, such as the display color, enhancing usability and personalization."
     },
     {
         "feature_name": "External Documentation",
@@ -258,15 +258,15 @@
     },
     {
         "feature_name": "Tooltips",
-        "description": "Implement tooltips to offer contextual information and guidance, enhancing user understanding and interaction with various elements of the application."
+        "description": "Implement tooltips to offer contextual information and guidance without needing to use the feature directly, enhancing user understanding and interaction with various elements of the application."
     },
     {
         "feature_name": "Preloading",
-        "description": "Optimize performance by preloading essential resources or data to reduce loading times and provide a seamless user experience."
+        "description": "Optimize performance by preloading reusable essential resources or data to reduce loading times and provide a seamless and efficient user experience."
     },
     {
         "feature_name": "A* Pathfinding with Optimized Heuristic",
-        "description": "Integrate A* pathfinding algorithm with optimized heuristic to efficiently calculate routes and provide accurate navigation directions."
+        "description": "Integrate A* pathfinding algorithm with optimized heuristic to efficiently determine the shortest routes between intersections, and provide accurate navigation directions."
     },
     {
         "feature_name": "CSS Custom GTK/Glade Theming",
@@ -282,7 +282,7 @@
         },
         {
         "feature_name": "Map Overlay Animations",
-        "description": "Incorporate animated map overlays to provide dynamic visual feedback and enhance the user experience with engaging and interactive map interactions."
+        "description": "Incorporate animated map overlays to provide dynamic visual feedback. This enhance the user experience by providing users with engaging and interactive map interactions to view, and presents information in a clearer way."
         },
         {
         "feature_name": "Selectable Path and Direction Highlight",
