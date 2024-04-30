@@ -19,24 +19,24 @@
   },
   "Gallery": [
     {
-      "title": "Tutorial Name",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Weather",
+      "largeImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234764544832700457/WEATHER-GIF.gif?ex=6631eb98&is=66309a18&hm=690f22c5e035b88272b066c4b58e51ecb79297c69ea0a4e9a25222879d3348bf&",
+      "smallImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234764544832700457/WEATHER-GIF.gif?ex=6631eb98&is=66309a18&hm=690f22c5e035b88272b066c4b58e51ecb79297c69ea0a4e9a25222879d3348bf&"
     },
     {
-      "title": "Tutorial Name",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "POI selection",
+      "largeImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234767956454543421/REST-GIF.gif?ex=6631eec5&is=66309d45&hm=452be68acf61a02d240e72fbf6c76fa78c584753ec3067f2b773a436a982adbc&",
+      "smallImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234767956454543421/REST-GIF.gif?ex=6631eec5&is=66309d45&hm=452be68acf61a02d240e72fbf6c76fa78c584753ec3067f2b773a436a982adbc&"
     },
     {
-      "title": "Tutorial Name",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Path b/w 2 intersection (input)",
+      "largeImage": "https://media.discordapp.net/attachments/1196156813448581190/1234766215344558141/image.png?ex=6631ed26&is=66309ba6&hm=299d950828c27d305750e30373a56b6589cb1c598749cdadc14dd02a9c2e8312&=&format=webp&quality=lossless&width=2083&height=1137",
+      "smallImage": "https://media.discordapp.net/attachments/1196156813448581190/1234766215344558141/image.png?ex=6631ed26&is=66309ba6&hm=299d950828c27d305750e30373a56b6589cb1c598749cdadc14dd02a9c2e8312&=&format=webp&quality=lossless&width=2083&height=1137"
     },
     {
-      "title": "Tutorial Name",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Path b/w 2 intersection (clicking)",
+      "largeImage": "https://media.discordapp.net/attachments/1196156813448581190/1234761193722482688/ASTAR-VIZ.gif?ex=6631e879&is=663096f9&hm=90b7241c03cb81a02a433f31156c926996175ce3c6bf41644603996afefd42e6&=&width=2089&height=1137",
+      "smallImage": "https://media.discordapp.net/attachments/1196156813448581190/1234761193722482688/ASTAR-VIZ.gif?ex=6631e879&is=663096f9&hm=90b7241c03cb81a02a433f31156c926996175ce3c6bf41644603996afefd42e6&=&width=2089&height=1137"
     },
     {
       "title": "Tutorial Name",
