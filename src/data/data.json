@@ -20,8 +20,8 @@
   "Gallery": [
     {
       "title": "Weather",
-      "largeImage": "https://media.discordapp.net/attachments/1196156813448581190/1234765939640369173/image.png?ex=6631ece4&is=66309b64&hm=e4fd8d2e26d29be02abcaf21d2363f40c56131a1819f44580b73509e53f332ba&=&format=webp&quality=lossless&width=1828&height=1137",
-      "smallImage": "https://media.discordapp.net/attachments/1196156813448581190/1234765939640369173/image.png?ex=6631ece4&is=66309b64&hm=e4fd8d2e26d29be02abcaf21d2363f40c56131a1819f44580b73509e53f332ba&=&format=webp&quality=lossless&width=1828&height=1137"
+      "largeImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234764544832700457/WEATHER-GIF.gif?ex=6631eb98&is=66309a18&hm=690f22c5e035b88272b066c4b58e51ecb79297c69ea0a4e9a25222879d3348bf&",
+      "smallImage": "https://cdn.discordapp.com/attachments/1196156813448581190/1234764544832700457/WEATHER-GIF.gif?ex=6631eb98&is=66309a18&hm=690f22c5e035b88272b066c4b58e51ecb79297c69ea0a4e9a25222879d3348bf&"
     },
     {
       "title": "POI selection",
